@@ -1,1 +1,5 @@
 # easy-lut
+status=free
+latest_version=1.0.0
+update_url=none
+notice=欢迎使用轻松灰片，祝您剪辑愉快！
